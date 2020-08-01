@@ -20,6 +20,7 @@ import (
 	"errors"
 	"fmt"
 	"strconv"
+	"os"
 
 	"github.com/hyperledger/fabric-contract-api-go/contractapi"
 )
