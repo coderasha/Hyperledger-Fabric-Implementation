@@ -2,11 +2,8 @@
 
 # Hyperledger Fabric Samples
 
-You can use Fabric samples to get started working with Hyperledger Fabric, explore important Fabric features, and learn how to build applications that can interact with blockchain networks using the Fabric SDKs. To learn more about Hyperledger Fabric, visit the [Fabric documentation](https://hyperledger-fabric.readthedocs.io/en/master).
+You can use Fabric samples to get started working with Hyperledger Fabric, explore important Fabric features, and learn how to build applications that can interact with blockchain networks using the Fabric SDKs. 
 
-## Getting started with the Fabric samples
-
-To use the Fabric samples, you need to download the Fabric Docker images and the Fabric CLI tools. First, make sure that you have installed all of the [Fabric prerequisites](https://hyperledger-fabric.readthedocs.io/en/master/prereqs.html). You can then follow the instructions to [Install the Fabric Samples, Binaries, and Docker Images](https://hyperledger-fabric.readthedocs.io/en/master/install.html) in the Fabric documentation. In addition to downloading the Fabric images and tool binaries, the instructions will make you clone the Fabric samples on your local machine.
 
 ## Guide to the Fabric samples
 
