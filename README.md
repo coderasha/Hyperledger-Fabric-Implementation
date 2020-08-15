@@ -5,7 +5,8 @@
 You can use Fabric samples to get started working with Hyperledger Fabric, explore important Fabric features, and learn how to build applications that can interact with blockchain networks using the Fabric SDKs. 
 
 
-## Guide to the Fabric samples
+
+
 
 You can use the following table to learn more about each sample, and find the corresponding tutorial or documentation.
 
